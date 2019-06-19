@@ -17,7 +17,7 @@ Let's see if this works.
 - add later
 
 ### American Society of Mechanical Engineers (ASME) Student Design Competition
-[https://www.asme.org/events/competitions/student-design-competition](Website.}
+[ASME Design Competitions](https://www.asme.org/events/competitions/student-design-competition)
 
 - add later
 
