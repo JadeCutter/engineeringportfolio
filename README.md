@@ -1,4 +1,4 @@
-# engineeringportfolio
+# Engineering Portfolio
 A collection of all my past, present and future engineering and other STEM-related projects.
 Let's see if this works.
 
