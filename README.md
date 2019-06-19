@@ -2,13 +2,11 @@
 A collection of all my past, present and future engineering and other STEM-related projects.
 Let's see if this works.
 
-### Kemper Engineering LLC Internship
-[Kemper Engineering LLC](http://www.kempereng.com/)
 
-Kemper Engineering Services, LLC was established in 2006 as a post-Katrina reorganization of Kemper Imageering. The company focuses on mechanical and process equipment, structures, and systems in a variety of industries. They also have related expertise in design-based consequence management relating to blast, ballistics, fire, chemical releases, anti-terrorism requirements, and extreme weather such as hurricanes.*
-This internship involved two primary projects:
-- Creating and testing SolidWorks models via Finite Element Analysis for the purpose of edifying existing ASME-PVHO code.
-- Performing forensic engineering, using SolidWorks and 3D-mapping to recreate a moment-by-moment vehicle accident for the purpose of an ongoing court case.
+### Nano Optoelectric Integrated Systems Engineering (NOISE) Laboratory
+[NOISE Laboratory](http://labs.ece.uw.edu/amlab/)
+
+*coming Fall 2019*
 
 ### NANOGrav (Cornell University)
 [NANOGrav.org](http://nanograv.org/)
@@ -18,7 +16,17 @@ This internship involved two primary projects:
 - add later
 - add later
 
-### Nano Optoelectric Integrated Systems Engineering (NOISE) Laboratory
-[NOISE Laboratory](http://labs.ece.uw.edu/amlab/)
+### American Society of Mechanical Engineers (ASME) Student Design Competition
+[https://www.asme.org/events/competitions/student-design-competition](Website.}
 
-*coming Fall 2019*
+- add later
+
+### Kemper Engineering LLC Internship
+[Kemper Engineering LLC](http://www.kempereng.com/)
+
+Kemper Engineering Services, LLC was established in 2006 as a post-Katrina reorganization of Kemper Imageering. The company focuses on mechanical and process equipment, structures, and systems in a variety of industries. They also have related expertise in design-based consequence management relating to blast, ballistics, fire, chemical releases, anti-terrorism requirements, and extreme weather such as hurricanes.*
+This internship involved two primary projects:
+- Creating and testing SolidWorks models via Finite Element Analysis for the purpose of edifying existing ASME-PVHO code.
+- Performing forensic engineering, using SolidWorks and 3D-mapping to recreate a moment-by-moment vehicle accident for the purpose of an ongoing court case.
+
+
